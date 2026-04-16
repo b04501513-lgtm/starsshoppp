@@ -11,7 +11,7 @@ import os
 from datetime import datetime, timedelta
 
 # --- CONFIG ---
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8627903535:AAFMlMGPx60msH_5YYKKiTqTE9uVIZH7SRA")
 ADMIN_ID = int(os.getenv("ADMIN_ID", "8058955962"))
 CARD_NUMBER = os.getenv("CARD_NUMBER", "5614 6803 7065 8706")
 ADMIN_USERNAME = os.getenv("ADMIN_USERNAME", "WarNexxxx")
